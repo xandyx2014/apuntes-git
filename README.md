@@ -28,6 +28,7 @@ curso de mi git desde 0
 ##agregamos otra linea
 ##agregamos otra linea
 ··agragamos otra linea
+<<<<<<< HEAD
 
 
 
@@ -35,3 +36,7 @@ curso de mi git desde 0
 
 ··agragamos
 ··agragamos
+=======
+..agreamos otra linea
+..agregamos otra linea
+>>>>>>> rama1
