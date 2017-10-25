@@ -27,3 +27,4 @@ curso de mi git desde 0
 >>>>>>> testing
 ##agregamos otra linea
 ##agregamos otra linea
+··agragamos otra linea
