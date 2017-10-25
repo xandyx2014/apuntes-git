@@ -40,3 +40,4 @@ curso de mi git desde 0
 ..agreamos otra linea
 ..agregamos otra linea
 >>>>>>> rama1
+otra linea
