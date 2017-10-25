@@ -28,3 +28,10 @@ curso de mi git desde 0
 ##agregamos otra linea
 ##agregamos otra linea
 ··agragamos otra linea
+
+
+
+
+
+··agragamos
+··agragamos
