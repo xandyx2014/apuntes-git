@@ -11,6 +11,7 @@ curso de mi git desde 0
 ##esta es la 7ma lineasss
 <<<<<<< HEAD
 <<<<<<< HEAD
+
 ##esta es mi8va linea
 ##agreamos otra linea
 ##agreamos otra linea
@@ -19,7 +20,9 @@ curso de mi git desde 0
 ##agreagamos otra linea
 >>>>>>> universo3
 =======
+
 ##esta es la 8va linea
 ##agreamos otra linea
 ##agreamos otra linea
 >>>>>>> testing
+##agregamos otra linea
